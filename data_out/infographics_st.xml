@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<documents>
+<document>
+<element name="X-Parsed-By">
+<value>org.apache.tika.parser.DefaultParser</value>
+</element>
+<element name="Transparency Alpha">
+<value>none</value>
+</element>
+<element name="tiff:ImageLength">
+<value>416</value>
+</element>
+<element name="Compression CompressionTypeName">
+<value>deflate</value>
+</element>
+<element name="Dimension PixelAspectRatio">
+<value>1.0</value>
+</element>
+<element name="Data BitsPerSample">
+<value>8 8 8</value>
+</element>
+<element name="Data PlanarConfiguration">
+<value>PixelInterleaved</value>
+</element>
+<element name="IHDR">
+<value>width=581, height=416, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none</value>
+</element>
+<element name="Compression NumProgressiveScans">
+<value>1</value>
+</element>
+<element name="Chroma ColorSpaceType">
+<value>RGB</value>
+</element>
+<element name="Chroma BlackIsZero">
+<value>true</value>
+</element>
+<element name="Compression Lossless">
+<value>true</value>
+</element>
+<element name="width">
+<value>581</value>
+</element>
+<element name="Dimension ImageOrientation">
+<value>Normal</value>
+</element>
+<element name="tiff:BitsPerSample">
+<value>8 8 8</value>
+</element>
+<element name="tiff:ImageWidth">
+<value>581</value>
+</element>
+<element name="Chroma NumChannels">
+<value>3</value>
+</element>
+<element name="Data SampleFormat">
+<value>UnsignedIntegral</value>
+</element>
+<element name="Content-Type">
+<value>image/png</value>
+</element>
+<element name="height">
+<value>416</value>
+</element>
+</document>
+</documents>

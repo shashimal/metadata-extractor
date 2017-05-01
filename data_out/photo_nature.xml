@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<documents>
+<document>
+<element name="X-Parsed-By">
+<value>org.apache.tika.parser.DefaultParser</value>
+</element>
+<element name="Transparency Alpha">
+<value>none</value>
+</element>
+<element name="tiff:ImageLength">
+<value>416</value>
+</element>
+<element name="Compression CompressionTypeName">
+<value>deflate</value>
+</element>
+<element name="Dimension PixelAspectRatio">
+<value>1.0</value>
+</element>
+<element name="Data BitsPerSample">
+<value>8 8 8</value>
+</element>
+<element name="Data PlanarConfiguration">
+<value>PixelInterleaved</value>
+</element>
+<element name="IHDR">
+<value>width=581, height=416, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none</value>
+</element>
+<element name="Compression NumProgressiveScans">
+<value>1</value>
+</element>
+<element name="Chroma ColorSpaceType">
+<value>RGB</value>
+</element>
+<element name="Chroma BlackIsZero">
+<value>true</value>
+</element>
+<element name="Compression Lossless">
+<value>true</value>
+</element>
+<element name="width">
+<value>581</value>
+</element>
+<element name="Dimension ImageOrientation">
+<value>Normal</value>
+</element>
+<element name="tiff:BitsPerSample">
+<value>8 8 8</value>
+</element>
+<element name="tiff:ImageWidth">
+<value>581</value>
+</element>
+<element name="Chroma NumChannels">
+<value>3</value>
+</element>
+<element name="Data SampleFormat">
+<value>UnsignedIntegral</value>
+</element>
+<element name="Content-Type">
+<value>image/png</value>
+</element>
+<element name="height">
+<value>416</value>
+</element>
+</document>
+<document>
+<element name="Compression Type">
+<value>Baseline</value>
+</element>
+<element name="Data Precision">
+<value>8 bits</value>
+</element>
+<element name="Number of Components">
+<value>3</value>
+</element>
+<element name="tiff:ImageLength">
+<value>788</value>
+</element>
+<element name="Component 2">
+<value>Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert</value>
+</element>
+<element name="Thumbnail Height Pixels">
+<value>0</value>
+</element>
+<element name="Component 1">
+<value>Y component: Quantization table 0, Sampling factors 2 horiz/2 vert</value>
+</element>
+<element name="X Resolution">
+<value>1 dot</value>
+</element>
+<element name="File Size">
+<value>84430 bytes</value>
+</element>
+<element name="Component 3">
+<value>Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert</value>
+</element>
+<element name="JPEG Comment">
+<value>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75</value>
+</element>
+<element name="File Name">
+<value>apache-tika-3002559386400001202.tmp</value>
+</element>
+<element name="tiff:BitsPerSample">
+<value>8</value>
+</element>
+<element name="Content-Type">
+<value>image/jpeg</value>
+</element>
+<element name="X-Parsed-By">
+<value>org.apache.tika.parser.DefaultParser</value>
+</element>
+<element name="Resolution Units">
+<value>none</value>
+</element>
+<element name="File Modified Date">
+<value>Tue May 02 06:40:30 +08:00 2017</value>
+</element>
+<element name="Comments">
+<value>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+</value>
+</element>
+<element name="w:comments">
+<value>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+</value>
+</element>
+<element name="Image Height">
+<value>788 pixels</value>
+</element>
+<element name="Thumbnail Width Pixels">
+<value>0</value>
+</element>
+<element name="Image Width">
+<value>1182 pixels</value>
+</element>
+<element name="comment">
+<value>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+</value>
+</element>
+<element name="tiff:ImageWidth">
+<value>1182</value>
+</element>
+<element name="Y Resolution">
+<value>1 dot</value>
+</element>
+</document>
+</documents>
